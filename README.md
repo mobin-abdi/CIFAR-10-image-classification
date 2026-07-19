@@ -117,15 +117,6 @@ Test images:
 - ToTensor()
 - Normalize()
 
-## Project Structure
-
-```
-.
-├── train.py
-├── cifar_model.pt
-└── README.md
-```
-
 ## Requirements
 
 ```bash
